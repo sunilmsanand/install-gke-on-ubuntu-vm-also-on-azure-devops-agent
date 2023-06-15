@@ -15,3 +15,10 @@ This repo consists of all the commands that are used to
 
 6.Install Google Auth Plugin in order to connect with Google cloud project and clusters
 
+
+
+
+1.Installing maven application:
+
+The script will update the package list, install Maven using the package manager, and finally, verify the installation by displaying the Maven version.
+
